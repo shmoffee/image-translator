@@ -6,14 +6,19 @@ If you put this code into your Google spreadsheet.
 It will do the following. 
 
 Preparation:
+
 1. You need a google drive folder with manga images in JPEG format.
+
 2. You need to get the google drive folder URL.
 
 ie. https://drive.google.com/drive/u/3/folders/xxxxxxxxx(This URL)xxxxxxxxxxxxxxxxx
 
 Manual Operation
+
 1. Click "Custom" > "JPEG to Excel" 
+
 2. Windows will popup asking for input google drive url. 
+
 3. Click "OK". 
 
 Automatic Operation
