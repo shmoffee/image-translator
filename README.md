@@ -8,7 +8,7 @@ It will do the following.
 Preparation:
 1. You need a google drive folder with manga images in JPEG format.
 2. You need to get the google drive folder URL.
-ie. https://drive.google.com/drive/u/3/folders/xxxxxxxxx<This URL>xxxxxxxxxxxxxxxxx
+ie. https://drive.google.com/drive/u/3/folders/xxxxxxxxx(This URL)xxxxxxxxxxxxxxxxx
 
 Manual Operation
 1. Click "Custom" > "JPEG to Excel" 
